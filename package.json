@@ -1,0 +1,18 @@
+{
+  "name": "testbot-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/bot.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "keywords": [],
+  "author": "shelly_draws",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^1.3.0",
+    "chalk": "^4.1.2",
+    "discord-api-types": "^0.37.18",
+    "dotenv": "^16.0.3"
+  }
+}
